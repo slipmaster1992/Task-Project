@@ -1,0 +1,18 @@
+package com.example.demo.common;
+
+public enum TaskType {
+
+	 TRANSPORT_SERVICE,
+	  BUILDING_SERVICE,
+	  CLEANING_SERVICE,
+	  VIRTUAL_HELP,
+	  COMPUTER_SERVICE,
+	  DESIGN_SERVICE,
+	  PHOTO_SERVICE,
+	  BEAUTY_SERVICE,
+	  HEALTH_SERVICE,
+	  LEGAL_HELP,
+	  VEHICLE_SERVICE;
+	
+	}
+
